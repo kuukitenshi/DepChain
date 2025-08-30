@@ -1,10 +1,7 @@
 # High Dependability Systems - 2024/2025 - DepChain
 
 ### Group 03:
-
-- Guilherme Wind - ist1112167
-- Laura Cunha - ist1112269
-- Rodrigo Correia - ist1112270
+Guilherme, Laura, Rodrigo
 
 ---
 ## Project
